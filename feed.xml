@@ -8,8 +8,8 @@
     <title>Como Perder Amigos</title>
     <itunes:title>Como Perder Amigos</itunes:title>
     <itunes:author>Como Perder Amigos</itunes:author>
-    <description>Podcast e guia prático.</description>
-    <link>https://www.comoperderamigos.com</link>
+    <description>Deixa eu te contar daquilo que eu não sei como</description>
+    <link>https://comoperderamigos.com</link>
 
     <language>pt-br</language>
 
@@ -19,13 +19,12 @@
       <itunes:email>lagonessi@comoperderamigos.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image
-      href="https://1.bp.blogspot.com/-IDSMmdy5HmE/YA32MFNTELI/AAAAAAAAAbw/uF5r9dMkLngVRJFSN0yKeieJMndKaDgIACLcBGAsYHQ/s0/comoperderamigos-1400x1400.jpg" />
+    <itunes:image href="https://www.comoperderamigos.com/comoperderamigos-web.jpg" />
 
     <image>
-      <url>https://1.bp.blogspot.com/-IDSMmdy5HmE/YA32MFNTELI/AAAAAAAAAbw/uF5r9dMkLngVRJFSN0yKeieJMndKaDgIACLcBGAsYHQ/s0/comoperderamigos-1400x1400.jpg</url>
+      <url>https://www.comoperderamigos.com/comoperderamigos-web.jpg</url>
       <title>Como Perder Amigos</title>
-      <link>https://www.comoperderamigos.com</link>
+      <link>https://comoperderamigos.com</link>
     </image>
 
     <itunes:type>episodic</itunes:type>
@@ -42,13 +41,12 @@
 
     <spotify:countryOfOrigin>br</spotify:countryOfOrigin>
 
-    <lastBuildDate>Sun, 24 Jan 2021 19:56:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2021 11:00:00 -0300</lastBuildDate>
 
     <item>
 
       <guid isPermaLink="false">comoperderamigos-10</guid>
-      <link>https://www.comoperderamigos.com/10</link>
-
+      <link>https://comoperderamigos.com/10</link>
       <itunes:episode>10</itunes:episode>
 
       <title>Não repara a bagunça</title>
@@ -73,13 +71,12 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-9</guid>
-      <link>https://www.comoperderamigos.com/9</link>
-
+      <link>https://comoperderamigos.com/9</link>
       <itunes:episode>9</itunes:episode>
 
       <title>Quando a gente se encontrar</title>
 
-      <description>Cada coisa vai estar no seu lugar. E sem saber pra onde ir, tudo vai ser atalho pra se perder. </description>
+      <description>Cada coisa vai estar no seu lugar. E sem saber pra onde ir, tudo vai ser atalho pra se perder.</description>
 
       <itunes:image href="https://1.bp.blogspot.com/-aVG8SDtF5Zg/YAOBvUL7oHI/AAAAAAAAAbA/Tm9jO_a0dOItEflRKhBtvz9IxJQZvh6KgCLcBGAsYHQ/s0/9-1400x1400.jpg" />
 
@@ -99,8 +96,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-8</guid>
-      <link>https://www.comoperderamigos.com/8</link>
-
+      <link>https://comoperderamigos.com/8</link>
       <itunes:episode>8</itunes:episode>
 
       <title>Eu não sei falar de retornos</title>
@@ -123,8 +119,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-7</guid>
-      <link>https://www.comoperderamigos.com/7</link>
-
+      <link>https://comoperderamigos.com/7</link>
       <itunes:episode>7</itunes:episode>
 
       <title>Faz tempo que eu tô de mudança</title>
@@ -147,8 +142,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-6</guid>
-      <link>https://www.comoperderamigos.com/6</link>
-
+      <link>https://comoperderamigos.com/6</link>
       <itunes:episode>6</itunes:episode>
 
       <title>Quem decide o que você come</title>
@@ -173,8 +167,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-5</guid>
-      <link>https://www.comoperderamigos.com/5</link>
-
+      <link>https://comoperderamigos.com/5</link>
       <itunes:episode>5</itunes:episode>
 
       <title>Sem título</title>
@@ -197,8 +190,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-4</guid>
-      <link>https://www.comoperderamigos.com/4</link>
-
+      <link>https://comoperderamigos.com/4</link>
       <itunes:episode>4</itunes:episode>
 
       <title>Uma breve história da tecnologia</title>
@@ -224,8 +216,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-3</guid>
-      <link>https://www.comoperderamigos.com/3</link>
-
+      <link>https://comoperderamigos.com/3</link>
       <itunes:episode>3</itunes:episode>
 
       <title>Ilusão nos desenhos animados, Grafite com caligrafia e O fim da escrita à mão</title>
@@ -248,8 +239,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-2</guid>
-      <link>https://www.comoperderamigos.com/2</link>
-
+      <link>https://comoperderamigos.com/2</link>
       <itunes:episode>2</itunes:episode>
 
       <title>O dilema dos trilhos, Cheiro de maldade e A piada mais engraçada do mundo</title>
@@ -272,8 +262,7 @@
     <item>
 
       <guid isPermaLink="false">comoperderamigos-1</guid>
-      <link>https://www.comoperderamigos.com/1</link>
-
+      <link>https://comoperderamigos.com/1</link>
       <itunes:episode>1</itunes:episode>
 
       <title>Afantasia, Guloseimas do Japão e do mundo, Dente do siso e Fotos na infância</title>
