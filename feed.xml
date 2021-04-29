@@ -19,16 +19,17 @@
       <itunes:email>lagonessi@comoperderamigos.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="https://www.comoperderamigos.com/comoperderamigos.jpg" />
+    <itunes:image href="https://comoperderamigos.com/comoperderamigos.jpg" />
 
     <image>
-      <url>https://www.comoperderamigos.com/comoperderamigos.jpg</url>
+      <url>https://comoperderamigos.com/comoperderamigos.jpg</url>
       <title>Como Perder Amigos</title>
       <link>https://comoperderamigos.com</link>
     </image>
 
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
+    <copyright>Desde 2015, Como Perder Amigos</copyright>
 
     <category>Podcast</category>
     <itunes:category text="Fiction">
@@ -41,7 +42,7 @@
 
     <spotify:countryOfOrigin>br</spotify:countryOfOrigin>
 
-    <lastBuildDate>Thu, 29 Apr 2021 02:35:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 13:57:59 -0300</lastBuildDate>
 
     <item>
 
