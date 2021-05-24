@@ -493,7 +493,7 @@ summary:focus {
 }
 
 #links div {
-  width: fit-content;
+  width: auto;
   margin: 0;
   padding: 0;
 }
