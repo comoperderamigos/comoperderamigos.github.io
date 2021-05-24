@@ -510,7 +510,7 @@ summary:focus {
 #links p {
   cursor: default;
   font-size: 12pt;
-  width: fit-content;
+  width: auto;
   display: inline-block;
   margin: 0;
   padding: 0;
