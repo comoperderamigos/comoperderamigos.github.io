@@ -383,13 +383,15 @@ input#mce-EMAIL::placeholder {
   border-bottom: 0;
 }
 
+/*
 summary::-webkit-details-marker {
   display: none;
 }
 
 summary:focus {
-  outline: -webkit-focus-ring-color auto 0;
+ outline: -webkit-focus-ring-color auto 0;
 }
+*/
 
 #creditos details summary:before {
   content: '\f550';
