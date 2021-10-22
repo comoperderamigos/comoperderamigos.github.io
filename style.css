@@ -326,9 +326,9 @@ input#mce-EMAIL::placeholder {
   cursor: pointer;
 }
 
-/* contato */
+/* contato + grupo */
 
-#contato {
+#contato, #grupo {
   text-align: center;
   padding: 32px 48px 24px 48px;
   border-radius: 8px;
@@ -338,7 +338,7 @@ input#mce-EMAIL::placeholder {
   cursor: default;
 }
 
-#contato h2 {
+#contato h2, #grupo h2 {
   text-align: center;
   display: inline-block;
 }
@@ -580,6 +580,20 @@ footer {
 
 .link-instagram:before {
   content: '\f16d';
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: normal;
+  margin-right: 4px;
+}
+
+.link-tiktok:before {
+  content: '\e07b';
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: normal;
+  margin-right: 4px;
+}
+
+.link-telegram:before {
+  content: '\f3fe';
   font-family: 'Font Awesome 5 Brands';
   font-weight: normal;
   margin-right: 4px;
