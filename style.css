@@ -51,7 +51,7 @@ h1,
 h2,
 h4 {
   margin: 0;
-  padding: 0 0 12px 0;
+  padding: 0 0 4px 0;
   width: 100%;
   box-sizing: border-box;
 
@@ -61,6 +61,7 @@ h4 {
 h2 {
   font-size: 14pt;
   font-weight: bold;
+  line-height: 180%
 }
 
 h3 {
