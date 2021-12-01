@@ -116,9 +116,14 @@ div.hr {
   height: 0;
 }
 
+div.nr {
+  width: 0;
+  height: 96px;
+}
+
 /* header */
 
-header {
+.header {
   max-width: 800px;
   min-height: calc(100vh - 96px);
   max-height: 1440px;
@@ -150,14 +155,14 @@ header {
   height: 100%;
 }
 
-header #titulo {
+.header #titulo {
   padding-top: 32px;
   margin: 0 16px;
   max-width: 480px;
   text-align: center;
 }
 
-header #titulo #comoperderamigos {
+.header #titulo #comoperderamigos {
   width: 100%;
   max-width: 240px;
   height: 56px;
@@ -171,7 +176,7 @@ header #titulo #comoperderamigos {
   background-position: center center;
 }
 
-header #titulo p {
+.header #titulo p {
   cursor: default;
   font-size: 12pt;
   width: fit-content;
@@ -183,15 +188,15 @@ header #titulo p {
 }
 
 
-header #titulo p:after {
+.header #titulo p:after {
   content: ' \002B25';
 }
 
-header #titulo p:last-of-type:after {
+.header #titulo p:last-of-type:after {
   content: '';
 }
 
-header #cta {
+.header #cta {
   text-align: center;
 
   display: flex;
@@ -224,8 +229,6 @@ header #cta {
   color: #000103;
   background-color: transparent;
 
-  border-radius: 16px;
-
   margin: 0;
   padding: 5px 16px 6px 16px;
   box-sizing: border-box;
@@ -237,7 +240,7 @@ header #cta {
 
 /* main */
 
-main {
+.main {
   max-width: 640px;
   padding: 0 16px;
 
@@ -248,7 +251,7 @@ main {
   justify-content: center;
 }
 
-main section {}
+.main section {}
 
 .descricao {
   width: 480px;
@@ -538,7 +541,7 @@ summary:focus {
 
 /* footer */
 
-footer {
+.footer {
   width: 100%;
   height: calc(100vh - 40px);
   max-height: 800px;
@@ -642,16 +645,38 @@ footer {
   margin-right: 4px;
 }
 
+.link-importante:before {
+  content: '\f005';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: bold;
+  margin-right: 4px;
+}
+
 /* lagonessi */
+
+.lagonessi-header {
+  max-width: 800px;
+  min-height: calc(100vh - 192px);
+  max-height: 1440px;
+  margin: 16px auto;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+
+  cursor: default;
+}
 
 .lagonessi-capa {
   display: block;
-  margin: 0 auto;
+  margin: 8px auto;
   padding: 0;
   width: 128px;
   height: 128px;
   border-radius: 50%;
-  background: url('lagonessi/lagonessi-128.png');
+  background: url('https://comoperderamigos.com/lagonessi/lagonessi-128.jpg');
   background-color: white;
   background-size: 100% auto;
   background-repeat: no-repeat;
@@ -670,7 +695,6 @@ footer {
 
 .lagonessi-h1 {
   font-size: 14pt;
-  margin-bottom: 4px;
 }
 
 .lagonessi-links {
@@ -681,16 +705,23 @@ footer {
   justify-content: center;
 }
 
+.lagonessi-importante {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 24px;
+}
+
 .lagonessi-botao {
   padding: 2px 8px;
   margin: 0;
 
   font-size: 10pt;
 
-  color: #000103;
   background-color: transparent;
-
-  border-radius: 16px;
 
   margin: 0;
   padding: 5px 16px 6px 16px;
@@ -699,4 +730,21 @@ footer {
   display: inline-block;
 
   border: 1px solid transparent;
+}
+
+.lagonessi-botao-fundo {
+  background: #000103;
+  color: white;
+  border-radius: 8px;
+  margin: 8px 0;
+}
+
+.lagonessi-botao-borda {
+  border: 1px solid #000103;
+  border-radius: 8px;
+  margin: 8px 0;
+}
+
+.lagonessi-escuta {
+  margin-top: 56px;
 }
