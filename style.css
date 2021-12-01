@@ -155,14 +155,14 @@ div.nr {
   height: 100%;
 }
 
-.header #titulo {
+#titulo {
   padding-top: 32px;
   margin: 0 16px;
   max-width: 480px;
   text-align: center;
 }
 
-.header #titulo #comoperderamigos {
+#titulo #comoperderamigos {
   width: 100%;
   max-width: 240px;
   height: 56px;
@@ -176,7 +176,7 @@ div.nr {
   background-position: center center;
 }
 
-.header #titulo p {
+#titulo p {
   cursor: default;
   font-size: 12pt;
   width: fit-content;
