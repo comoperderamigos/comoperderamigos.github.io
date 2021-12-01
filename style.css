@@ -109,6 +109,13 @@ div.vr {
   height: 96px;
 }
 
+div.hr {
+  border-top: 1px solid #00010388;
+  margin: 12px 0;
+  width: 96px;
+  height: 0;
+}
+
 /* header */
 
 header {
@@ -478,7 +485,7 @@ summary:focus {
 
 /* links */
 
-#links {
+.links {
   text-align: center;
   font-family: 'Open Sans Condensed', sans-serif;
   text-transform: uppercase;
@@ -490,27 +497,27 @@ summary:focus {
   justify-content: center;
 }
 
-#links .botao {
+.links .botao {
   padding: 2px 8px;
   margin: 0;
 }
 
-#links div {
+.links div {
   width: auto;
   margin: 0;
   padding: 0;
 }
 
-#links div:last-of-type {
+.links div:last-of-type {
   margin-top: 8px;
 }
 
-#links h1 {
+.links h1 {
   font-weight: bold;
 }
 
-#links h1,
-#links p {
+.links h1,
+.links p {
   cursor: default;
   font-size: 12pt;
   width: auto;
@@ -520,12 +527,12 @@ summary:focus {
 }
 
 
-#links h1:after,
-#links p:after {
+.links h1:after,
+.links p:after {
   content: ' \002B25';
 }
 
-#links p:last-of-type:after {
+.links p:last-of-type:after {
   content: '';
 }
 
@@ -626,4 +633,70 @@ footer {
   font-family: 'Font Awesome 5 Brands';
   font-weight: normal;
   margin-right: 4px;
+}
+
+.link-email:before {
+  content: '\f2b6';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+/* lagonessi */
+
+.lagonessi-capa {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: url('lagonessi/lagonessi-128.png');
+  background-color: white;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.lagonessi-capa:hover {
+  transition: ease-out 128ms;
+  background-size: 107% auto;
+  -webkit-transform: rotate(-2deg);
+  -moz-transform: rotate(-2deg);
+  -ms-transform: rotate(-2deg);
+  -o-transform: rotate(-2deg);
+  transform: rotate(-2deg);
+}
+
+.lagonessi-h1 {
+  font-size: 14pt;
+  margin-bottom: 4px;
+}
+
+.lagonessi-links {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.lagonessi-botao {
+  padding: 2px 8px;
+  margin: 0;
+
+  font-size: 10pt;
+
+  color: #000103;
+  background-color: transparent;
+
+  border-radius: 16px;
+
+  margin: 0;
+  padding: 5px 16px 6px 16px;
+  box-sizing: border-box;
+
+  display: inline-block;
+
+  border: 1px solid transparent;
 }
