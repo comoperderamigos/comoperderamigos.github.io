@@ -640,7 +640,7 @@ summary:focus {
 }
 
 .link-email:before {
-  content: '\f2b6';
+  content: '\f1fa';
   font-family: 'Font Awesome 5 Free';
   font-weight: bold;
   margin-right: 4px;
