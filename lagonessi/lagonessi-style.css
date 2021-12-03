@@ -81,21 +81,6 @@ body {
   border: 1px solid transparent;
 }
 
-.lagonessi-botao-fundo {
-  background: #000E29;
-  color: white;
-  border-radius: 8px;
-  margin: 8px 0;
-}
-
-.lagonessi-botao-borda {
-  border-radius: 8px;
-  margin: 8px 0;
-
-  background: linear-gradient(-45deg, white 4%, mistyrose 36%, white 88%);
-  animation: 3200ms linear infinite lagonessi-brilho;
-}
-
 @keyframes lagonessi-brilho {
   0% {
       background-position: 0% 50%;
