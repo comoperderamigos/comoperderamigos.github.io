@@ -64,23 +64,6 @@ body {
   margin-bottom: 24px;
 }
 
-.lagonessi-botao {
-  padding: 2px 8px;
-  margin: 0;
-
-  font-size: 10pt;
-
-  background-color: transparent;
-
-  margin: 0;
-  padding: 5px 16px 6px 16px;
-  box-sizing: border-box;
-
-  display: inline-block;
-
-  border: 1px solid transparent;
-}
-
 @keyframes lagonessi-brilho {
   0% {
       background-position: 0% 50%;
