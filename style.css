@@ -228,7 +228,7 @@ div.nr {
   background-color: transparent;
 
   margin: 0;
-  padding: 8px 16px 9px 16px;
+  padding: 6px 16px 7px 16px;
   box-sizing: border-box;
 
   display: inline-block;
@@ -240,12 +240,10 @@ div.nr {
   background: #000E29;
   color: snow;
   border-radius: 8px;
-  margin: 8px 0;
 }
 
 .botao-gradiente {
   border-radius: 8px;
-  margin: 8px 0;
 
   background: linear-gradient(-45deg, snow 4%, mistyrose 36%, snow 88%);
   animation: 3200ms linear infinite lagonessi-brilho;
