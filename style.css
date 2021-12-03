@@ -247,7 +247,22 @@ div.nr {
 
 .gradiente {
   background: linear-gradient(-45deg, snow 4%, mistyrose 36%, snow 88%);
-  animation: 3200ms linear infinite lagonessi-brilho;
+  animation: 3200ms linear infinite gradiente;
+}
+
+@keyframes gradiente {
+  0% {
+      background-position: 0% 50%;
+      background-size: 640%;
+  }
+  54% {
+      background-position: 100% 50%;
+      background-size: 360%;
+  }
+  100% {
+      background-position: 0% 50%;
+      background-size: 640%;
+  }
 }
 
 /* main */
