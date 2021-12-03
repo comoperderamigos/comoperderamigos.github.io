@@ -16,7 +16,7 @@ body {
   line-height: 125%;
 
   color: #000103;
-  background-color: white;
+  background-color: snow;
   /* background-image: url('bg.jpg'), url('bg2.jpg');
   background-size: cover, auto auto;
   background-repeat: no-repeat, no-repeat;
@@ -29,7 +29,7 @@ body {
 
 ::selection {
   background-color: #4785FF;
-  color: white;
+  color: snow;
   text-shadow: none;
 }
 
@@ -146,7 +146,7 @@ div.nr {
 
 #video iframe {
   position: absolute;
-  border-radius: 8px;
+  border-radius: 6px;
   top: 0;
   left: 0;
   bottom: 0;
@@ -187,7 +187,6 @@ div.nr {
   text-transform: uppercase;
 }
 
-
 .header #titulo p:after {
   content: ' \002B25';
 }
@@ -225,17 +224,31 @@ div.nr {
 
 .botao {
   font-size: 10pt;
-
-  color: #000103;
+  
   background-color: transparent;
 
-  margin: 0;
-  padding: 5px 16px 6px 16px;
+  margin: 8px 0;
+  padding: 0 16px 1px 16px;
   box-sizing: border-box;
 
   display: inline-block;
 
   border: 1px solid transparent;
+}
+
+.botao-solido {
+  background: #000E29;
+  color: snow;
+  border-radius: 8px;
+  margin: 8px 0;
+}
+
+.botao-gradiente {
+  border-radius: 8px;
+  margin: 8px 0;
+
+  background: linear-gradient(-45deg, snow 4%, mistyrose 36%, snow 88%);
+  animation: 3200ms linear infinite lagonessi-brilho;
 }
 
 /* main */
@@ -305,7 +318,6 @@ div.nr {
 }
 
 input#mce-EMAIL {
-  color: #000103;
   box-sizing: border-box;
   padding: 6px 8px;
   margin: 0;
@@ -324,7 +336,7 @@ input#mce-EMAIL {
 }
 
 input#mce-EMAIL::placeholder {
-  color: #000103;
+  color: #000E29;
 }
 
 #newsletter #mc-embedded-subscribe.botao {
@@ -555,7 +567,7 @@ summary:focus {
   justify-content: center;
 
   background-color: #000103;
-  color: white;
+  color: snow;
 
   margin-top: 48px;
 }
@@ -651,101 +663,4 @@ summary:focus {
   font-family: 'Font Awesome 5 Free';
   font-weight: bold;
   margin-right: 4px;
-}
-
-/* lagonessi */
-
-.lagonessi-header {
-  max-width: 800px;
-  min-height: calc(100vh - 192px);
-  max-height: 1440px;
-  margin: 16px auto;
-
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
-
-  cursor: default;
-}
-
-.lagonessi-capa {
-  display: block;
-  margin: 8px auto;
-  padding: 0;
-  width: 128px;
-  height: 128px;
-  border-radius: 50%;
-  background: url('https://comoperderamigos.com/lagonessi/lagonessi-128.jpg');
-  background-color: white;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-
-.lagonessi-capa:hover {
-  transition: ease-out 128ms;
-  background-size: 107% auto;
-  -webkit-transform: rotate(-2deg);
-  -moz-transform: rotate(-2deg);
-  -ms-transform: rotate(-2deg);
-  -o-transform: rotate(-2deg);
-  transform: rotate(-2deg);
-}
-
-.lagonessi-h1 {
-  font-size: 14pt;
-}
-
-.lagonessi-links {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
-}
-
-.lagonessi-importante {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
-
-  margin-bottom: 24px;
-}
-
-.lagonessi-botao {
-  padding: 2px 8px;
-  margin: 0;
-
-  font-size: 10pt;
-
-  background-color: transparent;
-
-  margin: 0;
-  padding: 5px 16px 6px 16px;
-  box-sizing: border-box;
-
-  display: inline-block;
-
-  border: 1px solid transparent;
-}
-
-.lagonessi-botao-fundo {
-  background: #000103;
-  color: white;
-  border-radius: 8px;
-  margin: 8px 0;
-}
-
-.lagonessi-botao-borda {
-  border: 1px solid #000103;
-  border-radius: 8px;
-  margin: 8px 0;
-}
-
-.lagonessi-escuta {
-  margin-top: 56px;
 }
