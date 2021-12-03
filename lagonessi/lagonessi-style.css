@@ -64,21 +64,6 @@ body {
   margin-bottom: 24px;
 }
 
-@keyframes lagonessi-brilho {
-  0% {
-      background-position: 0% 50%;
-      background-size: 640%;
-  }
-  54% {
-      background-position: 100% 50%;
-      background-size: 360%;
-  }
-  100% {
-      background-position: 0% 50%;
-      background-size: 640%;
-  }
-}
-
 .lagonessi-escuta {
   margin-top: 56px;
 }
