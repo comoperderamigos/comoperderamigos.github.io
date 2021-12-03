@@ -242,8 +242,13 @@ div.nr {
   background: #000E29;
 }
 
-.gradiente {
+.gradiente-mistyrose {
   background: linear-gradient(-45deg, snow 4%, mistyrose 36%, snow 88%);
+  animation: 3200ms linear infinite gradiente;
+}
+
+.gradiente-lightskyblue {
+  background: linear-gradient(-45deg, snow 4%, lightskyblue 36%, snow 88%);
   animation: 3200ms linear infinite gradiente;
 }
 
