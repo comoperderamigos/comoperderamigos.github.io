@@ -227,8 +227,8 @@ div.nr {
   
   background-color: transparent;
 
-  margin: 8px 0;
-  padding: 0 16px 1px 16px;
+  margin: 0;
+  padding: 8px 16px 9px 16px;
   box-sizing: border-box;
 
   display: inline-block;
