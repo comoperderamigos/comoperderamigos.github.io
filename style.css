@@ -41,6 +41,10 @@ footer {
   padding: 16px 0;
 }
 
+section {
+  border-radius: 8px;
+}
+
 div,
 iframe {
   margin: 0 auto;
@@ -236,15 +240,12 @@ div.nr {
   border: 1px solid transparent;
 }
 
-.botao-solido {
-  background: #000E29;
+.solido {
   color: snow;
-  border-radius: 8px;
+  background: #000E29;
 }
 
-.botao-gradiente {
-  border-radius: 8px;
-
+.gradiente {
   background: linear-gradient(-45deg, snow 4%, mistyrose 36%, snow 88%);
   animation: 3200ms linear infinite lagonessi-brilho;
 }
@@ -262,7 +263,8 @@ div.nr {
   justify-content: center;
 }
 
-.main section {}
+.main section {
+}
 
 .descricao {
   width: 480px;
@@ -285,7 +287,6 @@ div.nr {
   text-align: center;
   border: 1px solid #000103;
   padding: 32px 48px 24px 48px;
-  border-radius: 8px;
   margin: 0;
   width: 100%;
   box-sizing: border-box;
@@ -353,7 +354,6 @@ input#mce-EMAIL::placeholder {
 #contato, #grupo {
   text-align: center;
   padding: 32px 48px 24px 48px;
-  border-radius: 8px;
   margin: 0;
   width: 100%;
   box-sizing: border-box;
@@ -373,9 +373,7 @@ input#mce-EMAIL::placeholder {
   width: 100%;
   padding: 0;
   margin: 8px 0;
-
-  /* border: 1px solid #000103; */
-  border-radius: 8px;
+  
   overflow: hidden;
   width: 100%;
   box-sizing: border-box;
