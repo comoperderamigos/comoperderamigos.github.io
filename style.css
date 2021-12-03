@@ -238,6 +238,7 @@ div.nr {
   display: inline-block;
 
   border: 1px solid transparent;
+  border-radius: 8px;
 }
 
 .solido {
@@ -310,7 +311,6 @@ div.nr {
 
 #newsletter h2 {
   text-align: center;
-  width: fit-content;
   display: inline-block;
 }
 
