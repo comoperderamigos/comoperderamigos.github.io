@@ -235,8 +235,6 @@ div.nr {
   padding: 6px 16px 6px 16px;
   box-sizing: border-box;
 
-  display: inline-block;
-
   border: 1px solid transparent;
   border-radius: 6px;
 }
