@@ -218,15 +218,15 @@ div.nr {
   margin: 0 4px;
 }
 
-#cta .link-twitter {
+#cta .link-twitter, #cta .link-instagram {
   padding-right: 11px;
 }
 
-#cta .link-instagram {
+#cta .link-tiktok {
   padding-right: 12px;
 }
 
-.botao {  
+.botao {
   background-color: transparent;
 
   margin: 0;
@@ -448,8 +448,8 @@ summary:focus {
 }
 
 #creditos .botao {
-  background-color: #000103;
-  color: #ffffff;
+  background-color: #000E29;
+  color: snow;
   text-transform: uppercase;
   margin: 0 auto;
 }
