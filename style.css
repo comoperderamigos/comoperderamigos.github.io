@@ -300,11 +300,6 @@ div.nr {
 
 /* newsletter */
 
-#newsletter h2 {
-  text-align: center;
-  display: inline-block;
-}
-
 #mc_embed_signup {
   text-align: center;
   display: inline-block;
@@ -369,7 +364,7 @@ input#mce-EMAIL::placeholder {
   cursor: default;
 }
 
-#contato h2, #grupo h2 {
+#contato h2, #grupo h2, #newsletter h2, #creditos h2 {
   text-align: center;
   display: inline-block;
 }
