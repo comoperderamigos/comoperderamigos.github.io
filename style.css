@@ -932,7 +932,7 @@ input#mce-EMAIL::placeholder {
   margin-right: 4px;
 }
 
-.link-youtube:before {
+.link-youtube::before {
   content: '\f167';
   font-family: 'Font Awesome 5 Brands';
   font-weight: normal;
