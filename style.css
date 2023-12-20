@@ -710,12 +710,14 @@ summary:focus {
   margin-right: 8px;
 } */
 
-#mc_embed_signup {
+/* #mc_embed_signup */
+#chimp {
   text-align: center;
   display: inline-block;
 }
 
-#mc_embed_signup div {
+/* #mc_embed_signup div */
+#chimp div {
   width: fit-content;
   display: inline-block;
 }
