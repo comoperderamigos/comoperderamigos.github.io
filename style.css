@@ -710,12 +710,12 @@ summary:focus {
   margin-right: 8px;
 } */
 
-#mail {
+#mc_embed_signup {
   text-align: center;
   display: inline-block;
 }
 
-#mail div {
+#mc_embed_signup div {
   width: fit-content;
   display: inline-block;
 }
