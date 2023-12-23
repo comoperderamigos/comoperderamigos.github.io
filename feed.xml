@@ -57,6 +57,8 @@
 
       <enclosure type="video/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.mp4" length="67352547" />
 
+      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.mp3" length="2359431" />
+      
       <itunes:duration>86</itunes:duration>
 
       <pubDate>Thu, 21 Dec 2023 21:00:00 -0300</pubDate>
@@ -79,8 +81,6 @@
       <description>Quando você chegou no mundo da Lua, com os olhos vermelhos lendo frases na areia, pensando em outra coisa.</description>
 
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJUi_cvPklHR4ITLz29qU5aaRy-3L-P7dxIggBHPyL0vI3QhhtMCjYX2fOmiP0rYRf0cIXFiw3icX3hwH9-IsolkknXdP8kyzbpMfM-nvKMqsA7lW-Y2qn6n4w2zZUrnMtLRx7OpHqSwYuqfRGSq9fAbDSkgafrZbrQ711Wdd0KDQB4GgeLK9Uap4HC8oT/s1600/12.jpg" />
-
-      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.mp3" length="2359431" />
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20ótimas.mp3" length="92936140" />
 
