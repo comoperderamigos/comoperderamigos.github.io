@@ -42,7 +42,7 @@
 
     <spotify:countryOfOrigin>br</spotify:countryOfOrigin>
 
-    <lastBuildDate>Sun, 24 Dec 2023 13:15:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 14:38:00 -0300</lastBuildDate>
 
     <item>
 
@@ -56,6 +56,8 @@
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBlb3BuZMVZEW164U7ejUEAqQ-0kxpO_5VdeG-_P4CpCkpvau0ZBLKZEH_blKesuj1-ECfaGMMATli0SzlVjcpdjagb3otl5-DOrr_Hkg4T6F17HkrWJbapa4XXKYp6u7RgzeR4OhIEQCdOYoPgF_ieOvmzK-Cxt8eTNsWtXp7NupoaxrtBCFasVcN6Pz/s1600/1440x1440.jpg" />
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.mp3" length="2359431" />
+
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>86</itunes:duration>
 
@@ -82,6 +84,8 @@
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20ótimas.mp3" length="92936140" />
 
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20ótimas.srt" type="application/x-subrip" rel="captions" />
+
       <itunes:duration>5785</itunes:duration>
 
       <pubDate>Sat, 16 Dec 2023 17:00:05 -0300</pubDate>
@@ -105,6 +109,8 @@
       <itunes:image href="https://1.bp.blogspot.com/-0-TOk9DpE_A/YUf9a4nEL4I/AAAAAAAABVk/Vw9AW5Kf1dkeRWWjoyD63aWPHKQ0h_lbgCLcBGAsYHQ/s0/11.jpg" />
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Desculpa%20a%20demora.mp3" length="41459063" />
+
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Desculpa%20a%20demora.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>2572</itunes:duration>
 
@@ -130,6 +136,8 @@
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/N%C3%A3o%20repara%20a%20bagun%C3%A7a.mp3" length="33498619" />
 
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/N%C3%A3o%20repara%20a%20bagun%C3%A7a.srt" type="application/x-subrip" rel="captions" />
+
       <itunes:duration>2079</itunes:duration>
 
       <pubDate>Fri, 3 Apr 2020 20:15:00 -0300</pubDate>
@@ -153,6 +161,8 @@
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6H6FYfmzQJ2amC6hyDX7gBFBOPja-z787XTu5oDw96G2B2doVDk9nZwjjiBxuFMufeHX622UC_szvSsnvnCJJgfjGVc2gZLgOK-BlXnvQiDe_dK4J3w8F9AmGO3IClh_1pGx-gUhQXX-ny-AY_wkjN8drlDTHNmRjxdyAjIDwO2l7hJKDc70vGIkdor7-/s1600/09.jpg" />
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Quando%20a%20gente%20se%20encontrar.mp3" length=" 68571702" />
+
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Quando%20a%20gente%20se%20encontrar.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>4271</itunes:duration>
 
@@ -178,6 +188,8 @@
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Eu%20n%C3%A3o%20sei%20falar%20de%20retornos.mp3" length="51053231" />
 
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Eu%20n%C3%A3o%20sei%20falar%20de%20retornos.srt" type="application/x-subrip" rel="captions" />
+
       <itunes:duration>3173</itunes:duration>
 
       <pubDate>Fri, 19 Oct 2018 18:00:00 -0300</pubDate>
@@ -201,6 +213,8 @@
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwgDJqbUrHClHrK-NXSXg5eU3qu-8IMivlI_Ju_8K4H1axAUqcKe2MfMxqhX_qK41s1K1GQDULynVg9WtTFNDcKpkwAFkJHROB-P8ht85Ovdfs7eEWlp4Ajrqq50blUO6hfeWxD0TSLILArSI0KPVYswF6HiPCNMWJgo0SGK7EB7w6yNh1GJzXYQFyf9a/s1600/07.jpg" />
 
       <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Faz%20tempo%20que%20eu%20t%C3%B4%20de%20mudan%C3%A7a.mp3" length="31469398" />
+
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Faz%20tempo%20que%20eu%20t%C3%B4%20de%20mudan%C3%A7a.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>1948</itunes:duration>
 
