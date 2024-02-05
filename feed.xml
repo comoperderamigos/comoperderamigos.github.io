@@ -55,9 +55,9 @@
 
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBlb3BuZMVZEW164U7ejUEAqQ-0kxpO_5VdeG-_P4CpCkpvau0ZBLKZEH_blKesuj1-ECfaGMMATli0SzlVjcpdjagb3otl5-DOrr_Hkg4T6F17HkrWJbapa4XXKYp6u7RgzeR4OhIEQCdOYoPgF_ieOvmzK-Cxt8eTNsWtXp7NupoaxrtBCFasVcN6Pz/s1600/1440x1440.jpg" />
 
-      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.mp3" length="2359431" />
+      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20%C3%A1lbuns%20de%20fotos.mp3" length="2359431" />
 
-      <podcast:transcript url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20álbuns%20de%20fotos.srt" type="application/x-subrip" rel="captions" />
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/Sentimento%20perigoso%20em%20%C3%A1lbuns%20de%20fotos.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>86</itunes:duration>
 
@@ -82,9 +82,9 @@
 
       <itunes:image href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJUi_cvPklHR4ITLz29qU5aaRy-3L-P7dxIggBHPyL0vI3QhhtMCjYX2fOmiP0rYRf0cIXFiw3icX3hwH9-IsolkknXdP8kyzbpMfM-nvKMqsA7lW-Y2qn6n4w2zZUrnMtLRx7OpHqSwYuqfRGSq9fAbDSkgafrZbrQ711Wdd0KDQB4GgeLK9Uap4HC8oT/s1600/12.jpg" />
 
-      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20ótimas.mp3" length="92936140" />
+      <enclosure type="audio/mpeg" url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20%C3%B3timas.mp3" length="92936140" />
 
-      <podcast:transcript url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20ótimas.srt" type="application/x-subrip" rel="captions" />
+      <podcast:transcript url="https://archive.org/download/comoperderamigos/As%20fotos%20da%20festa%20ficaram%20%C3%B3timas.srt" type="application/x-subrip" rel="captions" />
 
       <itunes:duration>5785</itunes:duration>
 
